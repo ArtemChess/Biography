@@ -8,5 +8,6 @@
 
 Фото (описывает настроение):
 <pictures>
+![Gc7SmticIBw](https://github.com/ArtemChess/Biography/assets/147268408/4bb974ca-8128-4884-989a-107e24c0711f)
 
 </pictures>
