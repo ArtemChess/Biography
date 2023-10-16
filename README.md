@@ -10,7 +10,5 @@
 Спасибо команде "Нетология" за интересный курс!
 
 P.S. фоото (взгляд в будущее):
-<pictures>
 ![Gc7SmticIBw](https://github.com/ArtemChess/Biography/assets/147268408/893a311c-6f73-4cb5-9588-95b15668966f)
 
-</pictures>
